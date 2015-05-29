@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.ArenaBattleGame.CSharp.Plugins", "UnityVS.ArenaBattleGame.CSharp.Plugins.csproj", "{875B7C03-F43E-01DC-D79E-E7909B9CB379}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.ArenaBattleGame.CSharp", "UnityVS.ArenaBattleGame.CSharp.csproj", "{B9B3E853-5742-E918-5823-B2DCE248BFAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.ArenaBattleGame.CSharp.Editor", "UnityVS.ArenaBattleGame.CSharp.Editor.csproj", "{F1E4CF71-946E-41A5-7A38-7098AEF13584}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{875B7C03-F43E-01DC-D79E-E7909B9CB379}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{875B7C03-F43E-01DC-D79E-E7909B9CB379}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{875B7C03-F43E-01DC-D79E-E7909B9CB379}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{875B7C03-F43E-01DC-D79E-E7909B9CB379}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9B3E853-5742-E918-5823-B2DCE248BFAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9B3E853-5742-E918-5823-B2DCE248BFAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9B3E853-5742-E918-5823-B2DCE248BFAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9B3E853-5742-E918-5823-B2DCE248BFAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1E4CF71-946E-41A5-7A38-7098AEF13584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1E4CF71-946E-41A5-7A38-7098AEF13584}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1E4CF71-946E-41A5-7A38-7098AEF13584}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1E4CF71-946E-41A5-7A38-7098AEF13584}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
